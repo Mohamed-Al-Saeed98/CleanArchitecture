@@ -1,0 +1,17 @@
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\bin\Debug\net7.0\CleanArchitecture.InfraStructure.deps.json
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\bin\Debug\net7.0\CleanArchitecture.InfraStructure.runtimeconfig.json
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\bin\Debug\net7.0\CleanArchitecture.InfraStructure.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\bin\Debug\net7.0\CleanArchitecture.InfraStructure.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\bin\Debug\net7.0\CleanArchitecture.Data.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\bin\Debug\net7.0\CleanArchitecture.Data.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.csproj.AssemblyReference.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.AssemblyInfoInputs.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.AssemblyInfo.cs
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.csproj.CoreCompileInputs.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.csproj.CopyComplete
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\refint\CleanArchitecture.InfraStructure.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\CleanArchitecture.InfraStructure.genruntimeconfig.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.InfraStructure\obj\Debug\net7.0\ref\CleanArchitecture.InfraStructure.dll

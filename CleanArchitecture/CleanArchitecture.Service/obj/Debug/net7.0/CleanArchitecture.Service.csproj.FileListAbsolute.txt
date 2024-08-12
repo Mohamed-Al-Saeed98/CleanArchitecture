@@ -1,0 +1,17 @@
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\bin\Debug\net7.0\CleanArchitecture.Service.deps.json
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\bin\Debug\net7.0\CleanArchitecture.Service.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\bin\Debug\net7.0\CleanArchitecture.Service.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\bin\Debug\net7.0\CleanArchitecture.Data.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\bin\Debug\net7.0\CleanArchitecture.InfraStructure.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\bin\Debug\net7.0\CleanArchitecture.Data.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\bin\Debug\net7.0\CleanArchitecture.InfraStructure.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\CleanArchitecture.Service.csproj.AssemblyReference.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\CleanArchitecture.Service.GeneratedMSBuildEditorConfig.editorconfig
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\CleanArchitecture.Service.AssemblyInfoInputs.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\CleanArchitecture.Service.AssemblyInfo.cs
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\CleanArchitecture.Service.csproj.CoreCompileInputs.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\CleanArchitecture.Service.csproj.CopyComplete
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\CleanArchitecture.Service.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\refint\CleanArchitecture.Service.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\CleanArchitecture.Service.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Service\obj\Debug\net7.0\ref\CleanArchitecture.Service.dll

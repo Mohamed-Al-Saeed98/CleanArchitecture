@@ -1,0 +1,11 @@
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Data.deps.json
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Data.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Data.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.AssemblyInfo.cs
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\refint\CleanArchitecture.Data.dll
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.pdb
+W:\Internal Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\ref\CleanArchitecture.Data.dll
